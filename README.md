@@ -3,11 +3,11 @@
 ### ⭐ About me
 - Computer science student at the University of Britsh Columbia
 - My strength is data engineering and analysis
-- Looking for internship opportunity in Spring/Summer 2022
+- Looking for internship opportunity in Summer 2022
 
 
 ### 🛠 Skills
-Python, Java, SQL, C++, Unix Shell, R, ArcGIS
+Python, SQL, Java, Unix Shell, GCP, C++,  R, ArcGIS
 
 ### 📫 Connect with me 
 [LinkedIn](https://www.linkedin.com/in/yfsunubc/)
