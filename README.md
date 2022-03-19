@@ -2,6 +2,7 @@
 
 ### ⭐ About me
 - Computer science student at the University of Britsh Columbia
+- Current Data Analyst at Environment and Climate Change Canada
 - My strength is data engineering and analysis
 - Looking for internship opportunity in Summer 2022
 
